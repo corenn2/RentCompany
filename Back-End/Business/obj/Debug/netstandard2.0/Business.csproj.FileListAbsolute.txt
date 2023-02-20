@@ -1,0 +1,17 @@
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Coren\Desktop\Full-Stack-Rent-A-Car-System-main\Back-End\Business\obj\Debug\netstandard2.0\Business.pdb
